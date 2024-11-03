@@ -1,18 +1,8 @@
 # upstox_option_chain
 Upstox Options Chain Data and Margin Calculator
-This project retrieves options chain data from Upstox for specific financial instruments and calculates margin requirements and premium earned for options trading. It uses the Upstox API to access options data, filter based on user input, and compute values required in options trading.
+This project retrieves options chain data from Upstox for specific financial instruments and calculates margin requirements and premium earned for options trading. It uses the Upstox API to access options data, filter based on user input, and compute values required in options trading.  
 
-Table of Contents
-Project Overview
-Features
-Installation
-Usage
-Project Structure
-Functions
-Function 1: get_option_chain_data
-Function 2: calculate_margin_and_premium
-Challenges
-License
+  
 Project Overview
 This project is developed as part of a Python Development Internship assessment and focuses on:
 
